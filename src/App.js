@@ -27,7 +27,7 @@ class App extends Component {
             input: '',
             IMAGE_URL: '',
             box: {},
-            route: 'signin',
+            route: 'signin'
         }
     }
 
