@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/DejavuDaniel/face-detect-react/static/css/main.faeaa1b9.chunk.css",
-    "main.js": "/DejavuDaniel/face-detect-react/static/js/main.5c4d341b.chunk.js",
-    "main.js.map": "/DejavuDaniel/face-detect-react/static/js/main.5c4d341b.chunk.js.map",
-    "runtime-main.js": "/DejavuDaniel/face-detect-react/static/js/runtime-main.524c52b5.js",
-    "runtime-main.js.map": "/DejavuDaniel/face-detect-react/static/js/runtime-main.524c52b5.js.map",
+    "main.js": "/DejavuDaniel/face-detect-react/static/js/main.bbdec484.chunk.js",
+    "main.js.map": "/DejavuDaniel/face-detect-react/static/js/main.bbdec484.chunk.js.map",
+    "runtime-main.js": "/DejavuDaniel/face-detect-react/static/js/runtime-main.2fda5f18.js",
+    "runtime-main.js.map": "/DejavuDaniel/face-detect-react/static/js/runtime-main.2fda5f18.js.map",
     "static/css/2.75261d94.chunk.css": "/DejavuDaniel/face-detect-react/static/css/2.75261d94.chunk.css",
-    "static/js/2.90db100a.chunk.js": "/DejavuDaniel/face-detect-react/static/js/2.90db100a.chunk.js",
-    "static/js/2.90db100a.chunk.js.map": "/DejavuDaniel/face-detect-react/static/js/2.90db100a.chunk.js.map",
-    "static/js/3.5e06c044.chunk.js": "/DejavuDaniel/face-detect-react/static/js/3.5e06c044.chunk.js",
-    "static/js/3.5e06c044.chunk.js.map": "/DejavuDaniel/face-detect-react/static/js/3.5e06c044.chunk.js.map",
+    "static/js/2.c86d4bc0.chunk.js": "/DejavuDaniel/face-detect-react/static/js/2.c86d4bc0.chunk.js",
+    "static/js/2.c86d4bc0.chunk.js.map": "/DejavuDaniel/face-detect-react/static/js/2.c86d4bc0.chunk.js.map",
+    "static/js/3.4a4e94d2.chunk.js": "/DejavuDaniel/face-detect-react/static/js/3.4a4e94d2.chunk.js",
+    "static/js/3.4a4e94d2.chunk.js.map": "/DejavuDaniel/face-detect-react/static/js/3.4a4e94d2.chunk.js.map",
     "index.html": "/DejavuDaniel/face-detect-react/index.html",
     "static/css/2.75261d94.chunk.css.map": "/DejavuDaniel/face-detect-react/static/css/2.75261d94.chunk.css.map",
     "static/css/main.faeaa1b9.chunk.css.map": "/DejavuDaniel/face-detect-react/static/css/main.faeaa1b9.chunk.css.map",
-    "static/js/2.90db100a.chunk.js.LICENSE.txt": "/DejavuDaniel/face-detect-react/static/js/2.90db100a.chunk.js.LICENSE.txt"
+    "static/js/2.c86d4bc0.chunk.js.LICENSE.txt": "/DejavuDaniel/face-detect-react/static/js/2.c86d4bc0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.524c52b5.js",
+    "static/js/runtime-main.2fda5f18.js",
     "static/css/2.75261d94.chunk.css",
-    "static/js/2.90db100a.chunk.js",
+    "static/js/2.c86d4bc0.chunk.js",
     "static/css/main.faeaa1b9.chunk.css",
-    "static/js/main.5c4d341b.chunk.js"
+    "static/js/main.bbdec484.chunk.js"
   ]
 }
