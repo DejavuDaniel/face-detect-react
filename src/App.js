@@ -105,7 +105,7 @@ class App extends Component {
     render() {
         return (
             <div className="App">
-                <Navigation onRouteChange={this.onRouteChange} />
+                <Navigation onRouteChange={this.onRouteChange} route={this.state.route}/>
                 {this.state.route === 'home'
                     ? <div>
                         <Logo />
